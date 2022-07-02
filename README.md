@@ -15,12 +15,12 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-This project is on Zoom meeting application.
+This project is based on Zoom meeting application.
 It is written on dart language using Flutter, and Firebase for local Database.
 
 Jitsi_Meet library has been used to implement the functions of a meeting.
-This library contains functions like: Voice call (through mic), video_call, chatting option,
+This library contains functions like: Voice_call, video_call, chatting option,
   screen_recording, raising hand, etc.
 
-Once the user logs in using google email id, he is directed to either create his own meeting
+Once the user logs in with google email id, he is directed to either create his own meeting
   or join someone's meeting using meeting ID created from jitsi_meet library.
